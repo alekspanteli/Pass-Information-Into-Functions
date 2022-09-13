@@ -15,9 +15,9 @@
 
 
 // Function expression is not moved to top
-console.log(getResult(10));
+// console.log(getResult(10));
 
-const getResult = function(result){
-  let test = result + 2;
-  return test;
-};
+// const getResult = function(result){
+//   let test = result + 2;
+//   return test;
+// };
