@@ -30,11 +30,11 @@
 // console.log(res);
 
 
-function getArea(width, height, unit){
-  const area = width * height;
-  return `${area} ${unit}`;
-}
+// function getArea(width, height, unit){
+//   const area = width * height;
+//   return `${area} ${unit}`;
+// }
 
-const res = getArea(20, 20, 'sq ft');
+// const res = getArea(20, 20, 'sq ft');
 
-console.log(res);
+// console.log(res);
