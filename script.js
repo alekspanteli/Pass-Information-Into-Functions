@@ -18,9 +18,13 @@
 // console.log(name);
 
 
-function getArea(width, height){
-  const area = width * height;
-  return area;
-}
 
-getArea(10, 20);
+
+// function getArea(width, height){
+//   const area = width * height;
+//   return area;
+// }
+
+// const res = getArea(20, 20);
+
+// console.log(res);
