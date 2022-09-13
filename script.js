@@ -28,3 +28,13 @@
 // const res = getArea(20, 20);
 
 // console.log(res);
+
+
+function getArea(width, height, unit){
+  const area = width * height;
+  return `${area} ${unit}`;
+}
+
+const res = getArea(20, 20, 'sq ft');
+
+console.log(res);
